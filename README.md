@@ -1,10 +1,10 @@
 ## Ejercicios Extras del Trabajo Práctico N°4
 
-Conceptos POO (Programación Orientada a Objetos).
+Funciones y Conceptos de POO (Programación Orientada a Objetos).
 
-- Clases
-- Objetos
-- Métodos
+Ejercicios extras: 
+- Juego de Piedra, Papel o Tijera.
+- Aplicación de los conceptos map, filter y find.
 
 ## Autor
 Lorena Ginard
